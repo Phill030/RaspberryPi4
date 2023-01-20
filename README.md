@@ -1,2 +1,1 @@
-# RaspberryPi4
-Repo for all the RaspberryPi code we will use
+<h1 align="center">Smart Garden</h1>
