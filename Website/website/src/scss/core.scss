@@ -1,0 +1,27 @@
+$background: #1a1a1a;
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
+body {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    scroll-behavior: smooth;
+
+    background-color: $background; 
+}
+
+@font-face {
+    font-family: sfp;
+    src: url('/assets/fonts/SFPro.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: pjs;
+    src: url('/assets/fonts/PlusJakartaSans-Bold.ttf') format('truetype');
+}
