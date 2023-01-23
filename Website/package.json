@@ -1,0 +1,23 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "raspberrypi", "raspberrypi4b","smart","garden","python","node","vue3","websocket","expressjs"
+  ],
+  "author": "Phill, Krevox",
+  "contributors": [
+    {
+      "name": "Krevox",
+      "url": "https://github.com/Krevox"
+    },
+    {
+      "name": "Phill030",
+      "url": "https://github.com/Phill030"
+    }
+  ],
+  "license": "MIT",
+  "workspaces": ["server", "website"]
+}
